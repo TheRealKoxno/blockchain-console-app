@@ -80,7 +80,7 @@ impl Chain {
 
     pub fn update_reward(&mut self) -> bool {
         self.reward = self.reward / 2f32;
-        println!("New reward : {}", self.reward);
+        println!("New reward: {}", self.reward);
         true
     }
 
@@ -150,7 +150,7 @@ impl Chain {
                 pb.inc(delta);
                 thread::sleep(Duration::from_millis(difficulty*10))
             }
-            pb.finish_with_message("done");
+            pb.finish_with_message("DONE!");
         });
 
         let mut m : String = String::from("");
@@ -195,7 +195,7 @@ impl Chain {
     pub fn hex_to_string(vec_res: &[u8]) -> String {
         let mut s = String::new();
         for b in vec_res {
-            write!(&mut s, "{:x}", b).expect("unable to write");
+            write!(&mut s, "{:x}", b).expect("Unable to write");
         }
         s
     }
