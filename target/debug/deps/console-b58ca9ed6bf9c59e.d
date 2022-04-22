@@ -1,0 +1,12 @@
+/Users/mac/Desktop/RustProjects/simple-blockchain/target/debug/deps/console-b58ca9ed6bf9c59e.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs
+
+/Users/mac/Desktop/RustProjects/simple-blockchain/target/debug/deps/libconsole-b58ca9ed6bf9c59e.rlib: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs
+
+/Users/mac/Desktop/RustProjects/simple-blockchain/target/debug/deps/console-b58ca9ed6bf9c59e.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs:
